@@ -1,0 +1,21 @@
+.controls {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  margin-bottom: 20px;
+  padding: 0 24px;
+}
+
+.filterButton {
+  padding: 6px 14px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background: white;
+  cursor: pointer;
+}
+
+.activeFilter {
+  background-color: #1a1a1a;
+  color: white;
+  border-color: #1a1a1a;
+}
