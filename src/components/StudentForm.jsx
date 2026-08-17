@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import styles from './StudentForm.module.css';
 
 
 export default function StudentForm({ onAdd }) {
